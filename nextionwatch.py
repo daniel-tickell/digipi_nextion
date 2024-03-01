@@ -1,4 +1,4 @@
-# File: ham_nextion.py
+# File: nextionwatch.py
 """
 Based on the work of KM6LWY who wrote direwatch to work with the digipi project:
 https://github.com/craigerl/direwatch
